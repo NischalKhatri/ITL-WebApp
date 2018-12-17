@@ -1,0 +1,1741 @@
+﻿CustomerID,ProjectID,QuoteReq,Client,ALocation,Astreet,Afloor,Acity,Astate,AZipCode,Acountry,Latency,ZLocation,Zstreet,Zfloor,Zcity,Zstate,ZZipCode,Zcountry,Product,Classification,Bandwidth,ContractLength,UniqueID
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,,,,,,,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,,,36,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,24,
+,,2018081501,PDT,"233 Needham Street 
+Newton, MA, 02461",233 Needham Street,,Newton,MA,02461,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,36,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,24,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,36,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,12,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,24,
+,,2018081601,DB,"1400 Federal Boulevard 
+Carteret, NJ, 07008",1400 Federal Boulevard,,Carteret,NJ,07008,,,"755 Secaucus Road 
+Secaucus, NJ, 07094",755 Secaucus Road,,Secaucus,NJ,07094,,,,,36,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,310us RTD,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,56us RTD,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,84us RTD and Diverse,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"1400 Federal Boulevard Carrier MMR 
+Carteret, NJ, 07008",1400 Federal Boulevard Carrier MMR,,Carteret,NJ,07008,,392us RTD,"165 Halsey Street 
+Newark, NJ, 07102",165 Halsey Street,,Newark,NJ,07102,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,99us RTD,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,390us RTD,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,PDT,"755 Secaucus Road Carrier MMR 
+Secaucus, NJ",755 Secaucus Road Carrier MMR,,Secaucus,NJ,,,190us RTD,"300 Boulevard East Carrier MMR 
+Weehawken, NJ",300 Boulevard East Carrier MMR,,Weehawken,NJ,,,,,,12,
+,,2018082001,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,6ms RTD,"665 Howard Avenue
+2nd Floor POE 
+Somerset, NJ, 20147",665 Howard Avenue,2nd Floor POE,Somerset,NJ,20147,,,,,12,
+,,2018082001,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,6ms RTD,"665 Howard Avenue
+2nd Floor POE 
+Somerset, NJ, 20147",665 Howard Avenue,2nd Floor POE,Somerset,NJ,20147,,,,,24,
+,,2018082001,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,5.61ms/ 6.51ms,"665 Howard Avenue
+2nd Floor POE 
+Somerset, NJ, 20147",665 Howard Avenue,2nd Floor POE,Somerset,NJ,20147,,,,,12,
+,,2018082001,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,5.61ms/ 6.51ms,"665 Howard Avenue
+2nd Floor POE 
+Somerset, NJ, 20147",665 Howard Avenue,2nd Floor POE,Somerset,NJ,20147,,,,,24,
+,,2018082006,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,6ms RTD,"365 South Randolphville Road
+1st Floor POE 
+Piscataway, NJ, 08854",365 South Randolphville Road,1st Floor POE,Piscataway,NJ,08854,,,,,12,
+,,2018082006,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,6ms RTD,"365 South Randolphville Road
+1st Floor POE 
+Piscataway, NJ, 08854",365 South Randolphville Road,1st Floor POE,Piscataway,NJ,08854,,,,,24,
+,,2018082006,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,5.61ms/ 6.51ms,"365 South Randolphville Road
+1st Floor POE 
+Piscataway, NJ, 08854",365 South Randolphville Road,1st Floor POE,Piscataway,NJ,08854,,,,,12,
+,,2018082006,Morgan Stanley,"43881 Devin Shafron Drive
+1st Floor POD 1 
+Ashburn, VA, 20147",43881 Devin Shafron Drive,1st Floor POD 1,Ashburn,VA,20147,,5.61ms/ 6.51ms,"365 South Randolphville Road
+1st Floor POE 
+Piscataway, NJ, 08854",365 South Randolphville Road,1st Floor POE,Piscataway,NJ,08854,,,,,24,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,12,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,12,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,12,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,12,
+,,2018082101,Alliance Bernstein,"53 State Street
+Suite 3801 
+Boston, MA, 02109",53 State Street,Suite 3801,Boston,MA,02109,,,,,,,,,,,,,12,
+,,2018082101,Alliance Bernstein,", , , , , 
+10M DIA 
+Crown Castle",", , , , , ",10M DIA,Crown Castle,,,,,,,,,,,,,,,24,
+,,2018082101,Alliance Bernstein,,,,,,,,,,,,,,,,,,,36,
+,,2018082201,GTT/Thomson Reuters,"111 8th Avenue 
+New York, NY",111 8th Avenue,,New York,NY,,,262μs,"165 Halsey Street  
+Newark,  NJ",165 Halsey Street ,,Newark, NJ,,,,,,12,
+,,2018082201,GTT/Thomson Reuters,"111 8th Avenue 
+New York, NY",111 8th Avenue,,New York,NY,,,23.4ms,"350 E Cermak Road 
+ Chicago, IL",350 E Cermak Road,, Chicago,IL,,,,,,12,
+,,2018082201,GTT/Thomson Reuters,"111 8th Avenue 
+New York, NY",111 8th Avenue,,New York,NY,,,16.1ms,"350 E Cermak Road 
+ Chicago, IL",350 E Cermak Road,, Chicago,IL,,,,,,12,
+,,2018082202,MS," 3111 DAHLIA WAY 
+NAPLES,  FL, 34105", 3111 DAHLIA WAY,,NAPLES, FL,34105,,,,,,,,,,,,,12,
+,,2018082202,MS,"3111 DAHLIA WAY 
+NAPLES,  FL, 34105",3111 DAHLIA WAY,,NAPLES, FL,34105,,,,,,,,,,,,,12,
+,,2018082301,Alliance Bernstein,"2 Buckingham Avenue 
+Slough",2 Buckingham Avenue,,Slough,,,,,"Green Lane 
+Hounslow, London, UK",Green Lane,,Hounslow,London,,UK,,,,12,
+,,2018082301,Alliance Bernstein,"2 Buckingham Avenue 
+Slough",2 Buckingham Avenue,,Slough,,,,,"Green Lane 
+Hounslow, London, UK",Green Lane,,Hounslow,London,,UK,,,,24,
+,,2018082301,Alliance Bernstein,"2 Buckingham Avenue 
+Slough",2 Buckingham Avenue,,Slough,,,,,"Green Lane 
+Hounslow, London, UK",Green Lane,,Hounslow,London,,UK,,,,36,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,12,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,36,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,12,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018090401,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,256us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,36,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,362us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,12,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,362us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,362us,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,36,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,N/A,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,12,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,N/A,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018090402,AMR Capital,"90 Park Avenue
+ 5th Floor 
+New York, NY",90 Park Avenue, 5th Floor,New York,NY,,,N/A,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,36,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,415us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,409us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,676us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,415us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,409us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,676us,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,12,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"2905 Diehl Road 
+Aurora, IL, 60502, USA",2905 Diehl Road,,Aurora,IL,60502,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,15.7ms,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,12,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,15.7ms,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090403,PDT,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,,,24,
+,,2018090501,Morgan Stanley,"680 W 10000 S
+3 
+South Jordan, UT, 84095, USA",680 W 10000 S,3,South Jordan,UT,84095,USA,160ms,"111 8th Avenue, TelX (NYC2)
+6th Floor Suite 1402 
+New York, NY, 10011, USA","111 8th Avenue, TelX (NYC2)",6th Floor Suite 1402,New York,NY,10011,USA,,,,12,
+,,2018090701,AIG,"14 Cavendish Road 
+Stevenage, SG1 2DY, UK",14 Cavendish Road,,Stevenage,,SG1 2DY,UK,,"7-9 Frankfurt am Main 
+Taubenstrasse, 60313, Germany",7-9 Frankfurt am Main,,Taubenstrasse,,60313,Germany,,,,12,
+,,2018090701,AIG,"Weston Avenue 
+Waterglade Industrial Park, Grays, RM20 3FZ, UK",Weston Avenue,,Waterglade Industrial Park,Grays,RM20 3FZ,UK,,"7-9 Frankfurt am Main 
+Taubenstrasse, 60313, Germany",7-9 Frankfurt am Main,,Taubenstrasse,,60313,Germany,,,,12,
+,,2018090702,Morgan Stanley,"Paseo de Tamarindos No 90
+29&33 
+ Bosques de las Lomas, Delegacion Cuajimalpa, Mexico City, 5120, Mexico",Paseo de Tamarindos No 90,29&33," Bosques de las Lomas, Delegacion Cuajimalpa",Mexico City,5120,Mexico,60.7ms,"111 8th Avenue, TelX (NYC2)
+ 6th Floor Suite 1402 
+New York, NY, 10011, USA","111 8th Avenue, TelX (NYC2)", 6th Floor Suite 1402,New York,NY,10011,USA,,,,12,
+,,2018090703,Morgan Stanley,"Paseo de Tamarindos No 90
+29&33 
+ Bosques de las Lomas, Delegacion Cuajimalpa, Mexico City, 5120, Mexico",Paseo de Tamarindos No 90,29&33," Bosques de las Lomas, Delegacion Cuajimalpa",Mexico City,5120,Mexico,59.5ms,"165 Halsey Street, Meet Me Room
+9 
+Newark, NJ, 07102, USA","165 Halsey Street, Meet Me Room",9,Newark,NJ,07102,USA,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,700-800ms,"1855 Minnesota Court Alaska Area 
+Mississauga, Ontario, Canada",1855 Minnesota Court Alaska Area,,Mississauga,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,1.6ms,"1855 Minnesota Court Alaska Area 
+Mississauga, Ontario, Canada",1855 Minnesota Court Alaska Area,,Mississauga,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,,"1855 Minnesota Court Alaska Area 
+Mississauga, Ontario, Canada",1855 Minnesota Court Alaska Area,,Mississauga,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,,"1855 Minnesota Court Alaska Area 
+Mississauga, Ontario, Canada",1855 Minnesota Court Alaska Area,,Mississauga,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"1320 Dension Court Florida Area 
+Markham, Ontario, Canada",1320 Dension Court Florida Area,,Markham,Ontario,,Canada,500-600ms,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"1320 Dension Court Florida Area 
+Markham, Ontario, Canada",1320 Dension Court Florida Area,,Markham,Ontario,,Canada,0.8ms,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"1320 Dension Court Florida Area 
+Markham, Ontario, Canada",1320 Dension Court Florida Area,,Markham,Ontario,,Canada,,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"1320 Dension Court Florida Area 
+Markham, Ontario, Canada",1320 Dension Court Florida Area,,Markham,Ontario,,Canada,,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,500-600ms,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,0.7ms,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091101,Fixnetix,"3500 Steele Street 
+Markham, Ontario, Canada",3500 Steele Street,,Markham,Ontario,,Canada,,"45 Parliament Street 
+Toronto, Ontario, Canada",45 Parliament Street,,Toronto,Ontario,,Canada,,,,12,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,12,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,24,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,36,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,12,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,24,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,36,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,12,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,24,
+,,2018091301,Alliance Bernstein,"Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex
+Level 6 
+Bandra East, Mumbai, 400051, India","Sanford C. Bernstein Pvt Ltd Unit 9 & 10 4 North Avenue, Maker Maxity,
+Bandra Kurla Complex",Level 6,Bandra East,Mumbai,400051,India,,"LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West 
+Maharashtra, Mumbai, 400079, India","LBS Marg, Godrej & Boyce Industry Estate, Vikhroli West",,Maharashtra,Mumbai,400079,India,,,,36,
+,,2018091701,Citi,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,14.6ms,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018091701,Citi,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,12,
+,,2018091701,Citi,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,24,
+,,2018091701,Citi,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"755 Secaucus Road 
+Secaucus, NJ, 7094, USA",755 Secaucus Road,,Secaucus,NJ,7094,USA,,,,36,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,18ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,36,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.3ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.3ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.3ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,36,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,21.07ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,21.07ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018091702,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,21.07ms,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,36,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018092701,Alliance Bernstein,"4 Earlsfort Terrace
+4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,36,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100101,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,12,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,24,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,12,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,24,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,12,
+,,2018100102,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,,,24,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,12,
+,,2018100102,SG,"194 S Wood Avenue 
+Iselin, NJ, 08830, USA",194 S Wood Avenue,,Iselin,NJ,08830,USA,,"365 South Randolphville Road 
+1 POE 
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,1 POE,Piscataway,NJ,08854,USA,,,,24,
+,,2018100402,,"120 w 45th Street
+11 
+New York, NY, USA",120 w 45th Street,11,New York,NY,,USA,,,,,,,,,,,,12,
+,,2018100402,,"120 w 45th Street
+11 
+New York, NY, USA",120 w 45th Street,11,New York,NY,,USA,,,,,,,,,,,,24,
+,,2018100402,,"120 w 45th Street
+11 
+New York, NY, USA",120 w 45th Street,11,New York,NY,,USA,,,,,,,,,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Avenue 
+Sacramento, CA, 95834, USA",1200 Striker Avenue,,Sacramento,CA,95834,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"1200 Striker Ave 
+Sacramento, CA, 95834, USA",3 Corporate Place,,Piscataway,NJ,08854,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,36,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,12,
+,,2018100801,Alliance Bernstein,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,"7135 S Decatur Boulevard 
+Las Vegas, NV, 89118, USA",7135 S Decatur Boulevard,,Las Vegas,NV,89118,USA,,,,36,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"1803 Rocky River Road 
+Floor 1 
+North Monroe, NC, 28110, USA",1803 Rocky River Road ,Floor 1,North Monroe,NC,28110,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"275 Hartz Way
+Floor 1 
+Secaucus, NJ, 07094, USA",275 Hartz Way,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"15 Enterprise Drive
+Floor 1 
+Secaucus, NJ, 07094, USA",15 Enterprise Drive,Floor 1,Secaucus,NJ,07094,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"800 3rd Avenue
+Floor 4 
+New York, NY, 10022, USA",800 3rd Avenue,Floor 4,New York,NY,10022,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"600 Route 25A East Setauket 
+Floor 1 
+Setauket, NY, 11733, USA",600 Route 25A East Setauket ,Floor 1,Setauket,NY,11733,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,12,
+,,2018100802,Deutsche Bank,"6 Armstrong Road
+Floor 1 
+Shelton, CT, 06484, USA",6 Armstrong Road,Floor 1,Shelton,CT,06484,USA,,"3 Corporate Place
+Floor 1 or 2 
+Piscataway, NJ, 08854, USA",3 Corporate Place,Floor 1 or 2,Piscataway,NJ,08854,USA,,,,24,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,5.8ms / 6.2ms (SLA),"21715 Filigree Court 
+Ashburn, VA, 20147, USA",21715 Filigree Court,,Ashburn,VA,20147,USA,,,,12,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,5.8ms / 6.2ms (SLA),"21715 Filigree Court 
+Ashburn, VA, 20147, USA",21715 Filigree Court,,Ashburn,VA,20147,USA,,,,24,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,5.8ms / 6.2ms (SLA),"21715 Filigree Court 
+Ashburn, VA, 20147, USA",21715 Filigree Court,,Ashburn,VA,20147,USA,,,,36,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,0.693ms / 0.867ms (SLA),"2 Emerson Lane 
+Secaucus, NJ, 07094, USA",2 Emerson Lane,,Secaucus,NJ,07094,USA,,,,12,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,0.693ms / 0.867ms (SLA),"2 Emerson Lane 
+Secaucus, NJ, 07094, USA",2 Emerson Lane,,Secaucus,NJ,07094,USA,,,,24,
+,,2018100803,CBS,"524 west 57th street  
+New York, NY, USA",524 west 57th street ,,New York,NY,,USA,0.693ms / 0.867ms (SLA),"2 Emerson Lane 
+Secaucus, NJ, 07094, USA",2 Emerson Lane,,Secaucus,NJ,07094,USA,,,,36,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,12,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,24,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,12,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,24,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,12,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,12,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,24,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,12,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,24,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,12,
+,,2018100805,Morgan Stanley,"2820 Northwestern Parkway
+MMR 1&2 1st Floor 
+Santa Clara, CA, 95051, USA",2820 Northwestern Parkway,MMR 1&2 1st Floor,Santa Clara,CA,95051,USA,,"600 W 7th Street
+MMR 
+Los Angeles, CA, 90017, USA",600 W 7th Street,MMR,Los Angeles,CA,90017,USA,,,,24,
+,,2018100805,Morgan Stanley,"3825 NW Aloclek Place
+Suite 110 Floor 1 
+Hillsboro, OR, 97124, USA",3825 NW Aloclek Place,Suite 110 Floor 1,Hillsboro,OR,97124,USA,,"2020 Fifth Avenue
+Cage 080470 8th floor 
+Seattle, WA, 98121, USA",2020 Fifth Avenue,Cage 080470 8th floor,Seattle,WA,98121,USA,,,,24,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,36,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,36,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,36,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,12,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,24,
+,,2018100901,Alliance Bernstein,"4 Earlsfort Terrace
+Floor 4 
+Saint Kevins, Dublin, Ireland",4 Earlsfort Terrace,Floor 4,Saint Kevins,Dublin,,Ireland,,,,,,,,,,,,36,
+,,2018101501,Alliance Bernstein,"101 East Kennedy Boulevard
+Suite 3200 
+Tampa, FL, 33602, USA",101 East Kennedy Boulevard,Suite 3200,Tampa,FL,33602,USA,,,,,,,,,,,,12,
+,,2018101501,Alliance Bernstein,"101 East Kennedy Boulevard
+Suite 3200 
+Tampa, FL, 33602, USA",101 East Kennedy Boulevard,Suite 3200,Tampa,FL,33602,USA,,,,,,,,,,,,24,
+,,2018101501,Alliance Bernstein,"101 East Kennedy Boulevard
+Suite 3200 
+Tampa, FL, 33602, USA",101 East Kennedy Boulevard,Suite 3200,Tampa,FL,33602,USA,,,,,,,,,,,,36,
+,,2018101501,Alliance Bernstein,"127 Public Square
+Suite 5000 50th Floor 
+Cleveland, OH, 44114, USA",127 Public Square,Suite 5000 50th Floor,Cleveland,OH,44114,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"601 Union Street
+Suite 4650 46th Floor 
+Seattle, WA, 98101, USA",601 Union Street,Suite 4650 46th Floor,Seattle,WA,98101,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"1999 Avenue of the Stars
+Suite 2150 21st floor 
+Los Angeles, CA, 90067, USA",1999 Avenue of the Stars,Suite 2150 21st floor,Los Angeles,CA,90067,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"1735 Market Street
+Suite 3800 38th Floor 
+Philadelphia, PA, 21538, USA",1735 Market Street,Suite 3800 38th Floor,Philadelphia,PA,21538,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"1000 Louisiana Street, Wells Fargo Plaza
+Suite 3600 
+Houston, TX, 77002, USA","1000 Louisiana Street, Wells Fargo Plaza",Suite 3600,Houston,TX,77002,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"800 Connecticut Avenue NW
+Suite 1100 
+Washington, SC, 20006, USA",800 Connecticut Avenue NW,Suite 1100,Washington,SC,20006,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"777 South Flagler Drive
+Suite 1601 
+West Palm Beach, FL, 33401, USA",777 South Flagler Drive,Suite 1601,West Palm Beach,FL,33401,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"701 Brickell Avenue
+Suite 2240 
+Miami, FL, 33131, USA",701 Brickell Avenue,Suite 2240,Miami,FL,33131,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"555 California Street
+Suite 4400 44th Floor 
+San Francisco, CA, 94104, USA",555 California Street,Suite 4400 44th Floor,San Francisco,CA,94104,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"227 W Monroe Street
+Suite 5900 
+Chicago, IL, 60606, USA",227 W Monroe Street,Suite 5900,Chicago,IL,60606,USA,,,,,,,,,,,,,
+,,2018101501,Alliance Bernstein,"225 South Sixth Street
+Suite 2500 
+Minneapolis, MN, 55402, USA",225 South Sixth Street,Suite 2500,Minneapolis,MN,55402,USA,,,,,,,,,,,,,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,36,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,36,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,36,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",555 California Street ,"44th Fl., Suite 4400 ",San Francisco,CA,94104,USA,,,,,,,,,,,,36,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,36,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,12,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,24,
+,,2018102901,Edge Technology Group,"555 California Street 
+44th Fl., Suite 4400  
+San Francisco, CA, 94104, USA",,,,,,,,,,,,,,,,,,36,
+,,2018102902,TRM Partners,"1235 Averty Avenue 
+Columbia, SC, 29210, USA",1235 Averty Avenue,,Columbia,SC,29210,USA,,,,,,,,,,,,12,
+,,2018102902,TRM Partners,"1236 Averty Avenue 
+Columbia, SC, 29211, USA",1236 Averty Avenue,,Columbia,SC,29211,USA,,,,,,,,,,,,24,
+,,2018102902,TRM Partners,"1237 Averty Avenue 
+Columbia, SC, 29212, USA",1237 Averty Avenue,,Columbia,SC,29212,USA,,,,,,,,,,,,36,
+,,2018102902,TRM Partners,"1238 Averty Avenue 
+Columbia, SC, 29213, USA",1238 Averty Avenue,,Columbia,SC,29213,USA,,,,,,,,,,,,12,
+,,2018102902,TRM Partners,"1235 Averty Avenue 
+Columbia, SC, 29210, USA",1235 Averty Avenue,,Columbia,SC,29210,USA,,,,,,,,,,,,24,
+,,2018102902,TRM Partners,"1235 Averty Avenue 
+Columbia, SC, 29210, USA",1235 Averty Avenue,,Columbia,SC,29210,USA,,,,,,,,,,,,36,
+,,2018102902,TRM Partners,"1235 Averty Avenue 
+Columbia, SC, 29210, USA",1235 Averty Avenue,,Columbia,SC,29210,USA,,,,,,,,,,,,12,
+,,2018102902,TRM Partners,"165 Halsey Street 
+Newark, NJ, 07102, USA",165 Halsey Street,,Newark,NJ,07102,USA,,,,,,,,,,,,24,
+,,2018102902,TRM Partners,"165 Halsey Street 
+Newark, NJ, 07102, USA+I338",165 Halsey Street,,Newark,NJ,07102,USA+I338,,,,,,,,,,,,36,
+,,2018103001,Fixnetix,"2905 Diehl Road  
+Aurora, IL, 60502, USA",2905 Diehl Road ,,Aurora,IL,60502,USA,25.98ms,"151 Front Street West
+3, 5, 6, 7 floors 
+Toronto, Ontario, M5J2N1, Canada",151 Front Street West,"3, 5, 6, 7 floors",Toronto,Ontario,M5J2N1,Canada,,,,12,
+,,2018103001,Fixnetix,"2905 Diehl Road  
+Aurora, IL, 60502, USA",2905 Diehl Road ,,Aurora,IL,60502,USA,15ms,"45 Parliament Street 
+Toronto, Ontario, M5A0G7, Canada",45 Parliament Street,,Toronto,Ontario,M5A0G7,Canada,,,,12,
+,,2018103001,Fixnetix,"2905 Diehl Road  
+Aurora, IL, 60502, USA",2905 Diehl Road ,,Aurora,IL,60502,USA,,"151 Front Street West
+3, 5, 6, 7 floors 
+Toronto, Ontario, M5J2N1, Canada",151 Front Street West,"3, 5, 6, 7 floors",Toronto,Ontario,M5J2N1,Canada,,,,12,
+,,2018103001,Fixnetix,"2905 Diehl Road  
+Aurora, IL, 60502, USA",2905 Diehl Road ,,Aurora,IL,60502,USA,,"45 Parliament Street 
+Toronto, Ontario, M5A0G7, Canada",45 Parliament Street,,Toronto,Ontario,M5A0G7,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,7.12ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.61ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,7.12ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.61ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,7.12ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.61ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,9.4ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.26ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,9.4ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.26ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,9.4ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16.26ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,SLA: up to 18ms per 500km ,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"1501 McGill College Avenue 
+Montreal, QC, H3A3M8, Canada",1501 McGill College Avenue,,Montreal,QC,H3A3M8,Canada,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,12,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,24,
+,,2018103101,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,6.37ms,"130 King Street West
+Suite 2200 
+Toronto, ON, M5X1K6, Canada",130 King Street West,Suite 2200,Toronto,ON,M5X1K6,Canada,,,,36,
+,,2018103102,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16ms,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018103102,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,22.9ms,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,296us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,772us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,762us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,762us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,24,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,911us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,911us,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,24,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018110501,Citi,"1400 Federal Boulevard 
+Carteret, NJ, 07008, USA",1400 Federal Boulevard,,Carteret,NJ,07008,USA,,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,24,
+,,2018110503,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,1.176ms,"194 Wood Avenue S 
+Iselin, NJ, 08830, USA",194 Wood Avenue S,,Iselin,NJ,08830,USA,,,,12,
+,,2018110503,SG,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,959us,"194 Wood Avenue S 
+Iselin, NJ, 08830, USA",194 Wood Avenue S,,Iselin,NJ,08830,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,Pending,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,260us,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,480us,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,590us,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,705us,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,571us,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,1.593ms,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,745.4us,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,Pending,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,Pending,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,24,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,1ms,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,880us,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,502us,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"275 Hartz Way 
+Secaucus, NJ, 07094, USA",275 Hartz Way,,Secaucus,NJ,07094,USA,1.337ms,"365 South Randolphville Road  
+Piscataway, NJ, 08854, USA",365 South Randolphville Road ,,Piscataway,NJ,08854,USA,,,,12,
+,,2018110503,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,16ms,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110503,SG,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,22.9ms,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,,,12,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,60,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,60,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,60,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,60,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,36,
+,,2018110701,Kall8,"200 West Mercer
+Suite E202 
+Seattle, WA, 98119, USA",200 West Mercer,Suite E202,Seattle,WA,98119,USA,,,,,,,,,,,,36,
+,,2018110901,,"50 Madison Road 
+Totowa, NJ, 07512, USA",50 Madison Road,,Totowa,NJ,07512,USA,,"194 Wood Avenue S 
+Iselin, NJ, 08830, USA",194 Wood Avenue S,,Iselin,NJ,08830,USA,,,,,
+,,2018111501,TRM Partners,"2 Emerson Lane 
+Secaucus, NJ, 07094, USA",2 Emerson Lane,,Secaucus,NJ,07094,USA,,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,,,12,
+,,2018111501,TRM Partners,"2 Emerson Lane 
+Secaucus, NJ, 07094, USA",2 Emerson Lane,,Secaucus,NJ,07094,USA,,"100 Delawanna Avenue 
+Clifton, NJ, 07014, USA",100 Delawanna Avenue,,Clifton,NJ,07014,USA,,,,36,
+,,2018111501,TRM Partners,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,"165 Halsey Street 
+Newark, NJ, 07102, USA",165 Halsey Street,,Newark,NJ,07102,USA,,,,12,
+,,2018111501,TRM Partners,"1700 MacArthur Boulevard 
+Mahwah, NJ, 07430, USA",1700 MacArthur Boulevard,,Mahwah,NJ,07430,USA,,"165 Halsey Street 
+Newark, NJ, 07102, USA",165 Halsey Street,,Newark,NJ,07102,USA,,,,36,
+,,2018111601,TRM Partners,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,12,
+,,2018111601,TRM Partners,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,24,
+,,2018111601,TRM Partners,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,,,36,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,170ms,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,12,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,170ms,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,24,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,170ms,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,12,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,170ms,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,24,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,12,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,24,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,12,
+,,2018112102,PDT,"755 Secaucus Rd 
+Secaucus, NJ, 07094, USA",,,,,,,,"AT-TOKYO, Toyosu, 6-2-15, 135-0061, Koto-ku",,,,,,,,,,24,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,9.67mls,"151 Front Street West 
+Toronto, ON, M5J 2N1, Canada",151 Front Street West,,Toronto,ON,M5J 2N1,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"151 Front Street West 
+Toronto, ON, M5J 2N1, Canada",151 Front Street West,,Toronto,ON,M5J 2N1,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"151 Front Street West 
+Toronto, ON, M5J 2N1, Canada",151 Front Street West,,Toronto,ON,M5J 2N1,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"151 Front Street West 
+Toronto, ON, M5J 2N1, Canada",151 Front Street West,,Toronto,ON,M5J 2N1,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112701,Fixnetix,"755 Secaucus Road 
+Secaucus, NJ, 07094, USA",755 Secaucus Road,,Secaucus,NJ,07094,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112702,Fixnetix,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112702,Fixnetix,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112702,Fixnetix,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,9.94ms,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112702,Fixnetix,"350 E Cermak Road 
+Chicago, IL, 60616, USA",350 E Cermak Road,,Chicago,IL,60616,USA,,"45 Parliament Street 
+Toronto, ON, M5A 2Y5, Canada",45 Parliament Street,,Toronto,ON,M5A 2Y5,Canada,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112902,Kall8,"43914 Carentan Drive 
+Temecula, CA, 92592, USA",43914 Carentan Drive,,Temecula,CA,92592,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+1st Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,1st Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,,,,,,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
+,,2018112903,Weeden,"145 Mason Street
+2nd Floor 
+Greenwich, CT, 06830, USA",145 Mason Street,2nd Floor,Greenwich,CT,06830,USA,,"6133 N. River Road
+Suite 1110 
+Rosemont, IL, 60018, USA",6133 N. River Road,Suite 1110,Rosemont,IL,60018,USA,,,,12,
